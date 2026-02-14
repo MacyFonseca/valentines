@@ -1,4 +1,4 @@
-const gifStages = [
+/* const gifStages = [
     "https://media.tenor.com/EBV7OT7ACfwAAAAj/u-u-qua-qua-u-quaa.gif",    // 0 normal
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAd/chiikawa-hachiware.gif",  // 1 confused
     "https://media.tenor.com/f_rkpJbH1s8AAAAj/somsom1012.gif",             // 2 pleading
@@ -7,16 +7,39 @@ const gifStages = [
     "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
     "https://media.tenor.com/5_tv1HquZlcAAAAj/chiikawa.gif",               // 6 very devastated
     "https://media1.tenor.com/m/uDugCXK4vI4AAAAC/chiikawa-hachiware.gif"  // 7 crying runaway
+] */
+
+const gifStages = [
+    "https://tenor.com/view/plink-cat-plink-cat-gif-1794292671885121408",    // 0 normal
+    "https://tenor.com/view/silly-reaction-meme-stan-twitter-funny-stressed-gif-7713976294327515532",  // 1 confused
+    "https://tenor.com/view/side-eye-cat-gif-8545724115880217315",             // 2 pleading
+    "https://tenor.com/view/cat-stare-wet-wet-pussy-cold-gif-27655722",             // 3 sad
+    "https://tenor.com/view/sick-cat-awu-cat-gif-15108566974228447707",       // 4 sadder
+    "https://tenor.com/view/the-voices-gif-8334429843875606224",             // 5 devastated
+    "https://tenor.com/view/cat-crying-cat-cat-meme-cat-crying-meme-crying-cat-meme-gif-15530372636024879885",               // 6 very devastated
+    "https://tenor.com/view/cat-like-meme-ok-yes-gif-13218342446222071552"  // 7 crying runaway
 ]
 
-const noMessages = [
+/* const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Pookie please... 🥺",
+    "Bae please... 🥺",
     "If you say no, I will be really sad...",
     "I will be very sad... 😢",
     "Please??? 💔",
     "Don't do this to me...",
+    "Last chance! 😭",
+    "You can't catch me anyway 😜"
+] */
+
+const noMessages = [
+    "No",
+    "Are you positive? 🤔",
+    "Bô clica meriod, nera? 🥺",
+    "Bae please... 🥺",
+    "Ahnnnn, unton é assim né?",
+    "You don't love me 😢",
+    "MIIIIIIIII",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
